@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishjoji
 - 👀 I’m interested in automotive,Ai..
-- 🌱 I’m currently learning c,c++
+- 🌱 I’m currently learning python,c,c++
 - 💞️ I’m looking to collaborate on online projects
 - 📫 How to reach me mail me..ashishjoji1@gmail.com
 
